@@ -47,13 +47,13 @@ body{
 }
 
 .active{
-    background-color: #327ecf;
+    background-color: #95c1ef;
     border-radius: 5px;
 }
 .header{
     padding: 30px;
     text-align: center;
-    background-color: rgb(123, 158, 217);
+    background-color: #4881e2;
     color: black;
 }
 
@@ -94,7 +94,7 @@ body{
 .footer{
     padding: 20px;
     text-align: center;
-    background-color: rgb(123, 158, 217);
+    background-color: #4881e2;
     color: rgb(0, 0, 0);
 }
 
